@@ -6,9 +6,11 @@ public class ThreadDemo {
         MyThread t1 = new MyThread("飞机");
         MyThread t2 = new MyThread("坦克");
 
-////        开启线程
-//        t1.start();
-//        t2.start();
+        t1.setPriority(1);
+        t2.setPriority(10);
+        //开启线程
+        t1.start();
+        t2.start();
 
         System.out.println(t1.getPriority());
         System.out.println(t2.getPriority());
