@@ -1,4 +1,4 @@
-package com.atguigu.a04threadmethod;
+package com.itheima.a04threadmethod;
 
 public class ThreadDemo {
     public static void main(String[] args) {

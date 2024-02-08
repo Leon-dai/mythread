@@ -1,4 +1,4 @@
-package com.atguigu.a01threadcase1;
+package com.itheima.a01threadcase1;
 
 public class ThreadDemo {
     public static void main(String[] args) {

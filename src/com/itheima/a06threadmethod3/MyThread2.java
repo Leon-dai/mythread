@@ -1,4 +1,4 @@
-package com.atguigu.a06threadmethod3;
+package com.itheima.a06threadmethod3;
 
 public class MyThread2 extends Thread{
     @Override

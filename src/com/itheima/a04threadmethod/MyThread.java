@@ -1,4 +1,4 @@
-package com.atguigu.a04threadmethod;
+package com.itheima.a04threadmethod;
 
 public class MyThread extends Thread{
     public MyThread() {
